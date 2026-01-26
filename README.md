@@ -1,11 +1,8 @@
-
-# Welcome everyone! 
-
-## I'm Victor Gomes, nice to meet you all! :smile:
+## I'm Victor Gomes, nice to meet you all! 
 
 <img align="right" width="500px" height="300px" src="https://media1.tenor.com/m/z5IyCMLg1McAAAAd/persona-persona-4.gif">
 
-<br> Currently studying and developing my career as Backend developer :robot:
+<br> Currently exploring news topic and technologies that I find interesting
 
 <b>:computer: Technologies</b>
 <br>
