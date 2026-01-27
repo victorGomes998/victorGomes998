@@ -1,24 +1,42 @@
-# 😃 Hello, Welcome to my Github!
-I am a back-end Software Engineer focused on building scalable, well-structured systems that are easy to maintain and evolve. I enjoy turning complex business rules into clean, organized, and sustainable software solutions.
+<h1 align="center">Hello, welcome to my Github :wave:</h1>
 
-I primarily work with .NET / C# and SQL Server, contributing across the full development cycle — from architecture and domain modeling to delivering new features in production environments.
+<p align="center">
+  <em>Back-end Software Engineer</em>
+</p>
+<p style="text-align: justify;">
+  I primarily work with .NET / C# and SQL Server, contributing across the full development cycle — from architecture and domain modeling to delivering new features in production environments.
+</p>
+<p style="text-align: justify;">
+  I am constantly learning new technologies and improving how I design and build softwares
+</p>
 
-I am constantly learning new technologies and improving how I design and build softwares
-<img align="center" width="500px" height="300px" src="https://media1.tenor.com/m/z5IyCMLg1McAAAAd/persona-persona-4.gif">
+<p align="center">
+  <img width="500px" height="300px" src="https://media1.tenor.com/m/z5IyCMLg1McAAAAd/persona-persona-4.gif">
+</p>
 
-## 💻 Technologies & Tools
-- C
-- C# / .NET
-- Entity Framework (EF)
-- LINQ
-- SQL Server
-- Postman
+---
+<p align="center">
+  <em>How to reach me</em> 📫</br></br>
+  <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</p>
 
-## 🧱 Best Practices & Architecture
-- DDD (Domain-Driven-Design)
-- SOLID
-- REST APIs 
-  
-## 📫 Contacts
-<a href="https://www.linkedin.com/in/victor-gomes-232491279" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+---
+
+### 💻 Tech Stack 
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorGomes998&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+### 🟩 Commit Energy
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=victorGomes998&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <em>A journey of a thousand miles begins with a single step</em> 
+</p>
 
