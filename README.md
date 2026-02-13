@@ -27,13 +27,13 @@
 ### 💻 Tech Stack 
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorGomes998&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" src="https://github-readme-stats-xi-one-80.vercel.app/api/top-langs/?username=victorGomes998&layout=compact&hide_border=true&show_icons=true&theme=tokyonight" />
 </p>
 
 ### 🟩 Commit Energy
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=victorGomes998&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+<img src="https://github-readme-stats-xi-one-80.vercel.app/api?username=victorGomes998&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
